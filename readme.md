@@ -1,8 +1,6 @@
 # Consumer Price Index (CPI) Interactive Dashboard
 
-This repository contains an interactive dashboard displaying the Consumer Price Index (CPI) data from [Hagstofan](https://www.statice.is/) using their PxWeb API. The dashboard is coded in Python and hosted on GitHub Pages.
-
-![CPI Dashboard Screenshot](screenshot.png)
+This repository contains an interactive dashboard displaying the Consumer Price Index (CPI) data from [Hagstofan](https://www.statice.is/) using their PxWeb API. The dashboard is coded in Python and hosted on GitHub Pages. You can look at the dashboard on: https://sverrirhd.is/Maelabord-VNV/
 
 ## Features
 
