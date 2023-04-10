@@ -59,7 +59,7 @@ The dashboard can be accessed from a custom domain (e.g., "sverrirhd.is" or "sve
 
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [Bokeh](https://bokeh.org/)
+- [Plotly](https://plotly.com/)
 - [GitHub Pages](https://pages.github.com/)
 
 ## Author
@@ -68,4 +68,4 @@ The dashboard can be accessed from a custom domain (e.g., "sverrirhd.is" or "sve
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
